@@ -1,0 +1,4 @@
+ [ 2024-12-12 13:01:09,262] 26 root - INFO Data Ingestion function starts 
+ [ 2024-12-12 13:01:09,809] 30 root - INFO Dataset has been read as csv to pd 
+ [ 2024-12-12 13:01:10,660] 36 root - INFO Train Test Split starts 
+ [ 2024-12-12 13:01:11,835] 43 root - INFO Data Ingestion completed 
